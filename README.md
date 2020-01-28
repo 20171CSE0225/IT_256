@@ -1,2 +1,2 @@
 # IT_256
-welcome to github
+welcome to presidency
